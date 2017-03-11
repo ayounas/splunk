@@ -1,2 +1,2 @@
 # splunk
-Use Full Splunk Queries
+UseFull Splunk Queries
